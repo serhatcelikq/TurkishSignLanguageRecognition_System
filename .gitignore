@@ -1,0 +1,10 @@
+# Sanal ortam
+.venv/
+
+# Model çıktıları / ağırlıklar
+checkpoints/
+
+# Veri setleri
+data/
+
+# Diğer her şey default olarak dahil
