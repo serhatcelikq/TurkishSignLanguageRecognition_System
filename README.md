@@ -83,7 +83,8 @@ Adjust flags and arguments by opening each script header or `config.json`.
 
 ## Example
 
-![image alt]([image_url](https://github.com/serhatcelikq/TurkishSignLanguageRecognition_System/blob/3c61b645cf1466255cbb592d0477b6cf55368d8d/images/3757bcda-evlenmek-2496e67d-d5fb-11f0-8ef8-f8b54d69582e.jpg))
+![Evlenmek İşareti](images/3757bcda-evlenmek-2496e67d-d5fb-11f0-8ef8-f8b54d69582e.jpg)
+
 ```
 
 ## Tips & Notes
@@ -105,6 +106,7 @@ Contributions, bug reports, and improvements are welcome. Open an issue or submi
 This repository does not include an explicit license file. If you plan to reuse or redistribute the code, please add a `LICENSE` file or contact the repository owner for permission and licensing details.
 
 For questions, reach out in the repository issues or contact the author listed in project metadata.
+
 
 
 
